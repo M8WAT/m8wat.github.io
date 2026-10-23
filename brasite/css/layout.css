@@ -1,0 +1,214 @@
+/* Standard Colours
+Light Blue	#94ADEB
+Dark Blue	#1C3F94
+Dark Red	   #EF4135
+Light Red	#F69089
+*/
+
+body {
+   font-family       : calibri, verdana, arial, comic sans;
+   text-align        : justify;
+   font-size         : clamp (8pt, 3vw, 12pt);
+   background-color  : #303030;
+   color             : #1C3F94;
+   min-width         : 820px;
+   width             : 100%;
+   /*z-index           : 0;*/
+}
+
+#header {
+   position          : fixed;
+   left              : 0;
+   top               : 0;
+   width             : 100%;
+   height            : 86px;
+   padding-top       : 7px;
+   padding-bottom    : 7px;
+   background-color  : #FFFFFF;
+   color             : #1C3F94;
+   justify-content   : center;
+   align-items       : center;
+   text-align        : center;
+   display           : flex;
+   overflow          : hidden;
+   z-index           : 5;
+}
+
+.headline {
+   position          : absolute;
+   top               : 7px;
+}
+
+.banner {
+   position          : absolute;
+   width             : 820px;
+}
+
+#navbar {
+   position          : fixed;
+   width             : 100%;
+   height            : 35px;
+   min-width         : 820px;
+   left              : 0px;
+   top               : 100px;
+   z-index		      : 5;
+}
+
+#main {
+   width             : 100%;
+   position          : absolute;
+   left              : 0px;
+   top               : 138px;
+   bottom	         : 0px;
+   padding-top       : 10px;
+   padding-bottom    : 0px;
+   background-color  : rgba(187,187,187,0.85);
+   z-index		      : 1;
+}
+
+#content {
+   position          : relative;
+   width             : fit-content;
+   bottom            : 10px;
+   padding-top       : 10px;
+   padding-bottom    : 50px;
+   padding-left		: 5%;
+   padding-right	   : 5%;
+   z-index		      : 0;
+}
+
+#footer {
+   position		      : fixed;
+   left			      : 0;
+   bottom		      : 0;
+   width		         : 100%;
+   background		   : #303030;
+   color		         : #94ADEB;
+   text-align		   : center;
+   font-size         : 10px;
+   z-index		      : 5;
+}
+
+.center {
+   display           : flex;
+   justify-content   : center;
+   align-items       : center;
+}
+
+h1 {
+   color	            : #EF4135;
+   font-size	      : clamp(16px, 5vw, 36px);
+   text-align	      : center;
+}
+
+h2 {
+   font-size	      : clamp(12px, 4vw, 28px);
+   text-align        : center;
+   color             : #1C3F94;
+}
+
+a {
+   color		         : #EF4135;
+   text-decoration   : none;
+}
+
+a.img {
+   border	         : 0;
+}
+
+a.tip {
+   text-decoration   : none;
+}
+
+a.tip:hover {
+   position          : relative;
+}
+
+a.tip span {
+   display           : none
+}
+
+a.tip:hover span {
+   background        : #000000;
+   opacity           : 1;
+   border            : none;
+   border-radius     : 5px 5px 5px 5px;
+   font-family       : calibri, verdana, arial, comic sans;
+   font-size         : 12pt;
+   text-decoration   : none;
+   white-space       : nowrap;
+   color             : #FFFFFF;
+   padding           : 6px 6px 6px 6px;
+   margin            : 10px;
+   display           : block;
+   z-index           : 50; 
+   position          : absolute;
+   top               : 10px;
+}
+
+.pl {
+   font-size         : 12pt;
+   text-decoration   : none;
+   color             : #1C3F94;
+}
+  
+.listingtable {
+   margin-top        : 10px;
+   border            : 1px #808080 solid;
+   font-size         : 12pt;
+   font-color		   : #FFFFFF
+}
+  
+.listingtable th {
+   height            : 35px;
+   text-align        : center;
+   color		         : #FFFFFF;
+   background-color  : #1C3F94;
+}
+
+.listingtable td {
+   padding-left      : 5px;
+}      
+
+.listinglink {
+   font-size         : 12pt;
+   text-decoration   : none;
+   color             : #1C3F94;
+}
+
+.FilterField {
+   font-size         : 10pt;
+   text-decoration   : none,
+   color             : #808080;
+   background-color  : #FFFFFF;
+   width             : 150px;
+   height            : 20px;
+   padding-left      : 5px;
+   padding-top       : 3px;
+   border            : 1px #808080 solid;
+}
+
+.FilterSubmit {
+   font-size         : 10pt;
+   text-decoration   : none,
+   color             : #000000;
+   background-color  : #FFFFFF;
+   height            : 26px;
+   width             : 60px;
+   padding-left      : 5px;
+   padding-top       : 3px;
+   border            : 1px #808080 solid;
+}
+
+.smalllink {
+   font-size         : 12pt;
+   text-decoration   : none;
+   color             : #1C3F94;
+}
+
+img {
+   display           : block;
+   margin-left       : auto;
+   margin-right      : auto;
+   width             : 3840px;
+ }

@@ -1,0 +1,74 @@
+/* Standard Colours
+Dark Blue   #1C3F94
+Light Blue	#94ADEB
+Dark Red    #EF4135
+Light Red   #F69089
+*/
+
+.navbar {
+  overflow: hidden;
+  background-color: #1C3F94;
+}
+
+.navbar a {
+  float: left;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+}
+
+.navbar a.split {
+  float: right;
+  background-color: #EF4135;
+  color: #FFFFFF;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 14px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 12px 14px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color   : #EF4135;
+  color              : #FFFFFF;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1C3F94;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 5;
+}
+
+.dropdown-content a {
+  float: none;
+  color: #FFFFFF;
+  padding: 12px 14px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color   : #EF4135;
+  color              : #FFFFFF;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
