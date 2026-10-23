@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 430 430"
+   width="430"
+   height="430"
+   preserveAspectRatio="xMidYMid meet"
+   style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="6f1179a2-4a0f-4664-9f06-2410b59a1215.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.244186"
+     inkscape:cx="214.7772"
+     inkscape:cy="215"
+     inkscape:window-width="2048"
+     inkscape:window-height="1216"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="__lottie_element_73">
+      <rect
+         width="430"
+         height="430"
+         x="0"
+         y="0"
+         id="rect1" />
+    </clipPath>
+    <clipPath
+       id="__lottie_element_75">
+      <path
+         d="M0,0 L430,0 L430,430 L0,430z"
+         id="path1" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#__lottie_element_73)"
+     id="g11">
+    <g
+       clip-path="url(#__lottie_element_75)"
+       transform="matrix(1,0,0,1,0,0)"
+       opacity="1"
+       style="display: block;"
+       id="g10">
+      <g
+         transform="matrix(1,0.000009850274182099383,-0.000009850274182099383,1,130.10000610351562,215.1999969482422)"
+         opacity="1"
+         style="display: block;"
+         id="g3">
+        <g
+           opacity="1"
+           transform="matrix(1,0,0,1,0,0)"
+           id="g2">
+          <path
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             fill-opacity="0"
+             class="primary"
+             stroke="rgb(18,19,49)"
+             stroke-opacity="1"
+             stroke-width="12"
+             d=" M-15.5,-61.599998474121094 C-15.5,-61.599998474121094 72.30000305175781,-120.80000305175781 72.30000305175781,-120.80000305175781 C72.30000305175781,-120.80000305175781 72.30000305175781,120.80000305175781 72.30000305175781,120.80000305175781 C72.30000305175781,120.80000305175781 -15.5,63.599998474121094 -15.5,63.599998474121094 C-15.5,63.599998474121094 -72.30000305175781,63.20000076293945 -72.30000305175781,63.20000076293945 C-72.30000305175781,63.20000076293945 -72.30000305175781,-61.5 -72.30000305175781,-61.5 C-72.30000305175781,-61.5 -15.5,-61.599998474121094 -15.5,-61.599998474121094z"
+             id="path2"
+             style="stroke:#0b3a78;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1,0,0,1,339.04998779296875,215)"
+         opacity="1"
+         style="display: block;"
+         id="g5">
+        <g
+           opacity="1"
+           transform="matrix(1,0,0,1,0,0)"
+           id="g4">
+          <path
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             fill-opacity="0"
+             class="secondary"
+             stroke="rgb(8,168,138)"
+             stroke-opacity="1"
+             stroke-width="12"
+             d=" M-33.150001525878906,160 C55.25,71.5999984741211 55.25,-71.5999984741211 -33.150001525878906,-160"
+             id="path3"
+             style="stroke:#4075bc;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1,0,0,1,299.6369934082031,215)"
+         opacity="1"
+         style="display: block;"
+         id="g7">
+        <g
+           opacity="1"
+           transform="matrix(1,0,0,1,0,0)"
+           id="g6">
+          <path
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             fill-opacity="0"
+             class="secondary"
+             stroke="rgb(8,168,138)"
+             stroke-opacity="1"
+             stroke-width="12"
+             d=" M-25.83799934387207,124.69999694824219 C43.0620002746582,55.79999923706055 43.0620002746582,-55.79999923706055 -25.83799934387207,-124.69999694824219"
+             id="path5"
+             style="stroke:#4075bc;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1,0,0,1,261.31201171875,215)"
+         opacity="1"
+         style="display: block;"
+         id="g9">
+        <g
+           opacity="1"
+           transform="matrix(1,0,0,1,0,0)"
+           id="g8">
+          <path
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             fill-opacity="0"
+             class="secondary"
+             stroke="rgb(8,168,138)"
+             stroke-opacity="1"
+             stroke-width="12"
+             d=" M-18.71299934387207,90.30000305175781 C31.187000274658203,40.400001525878906 31.187000274658203,-40.400001525878906 -18.71299934387207,-90.30000305175781"
+             id="path7"
+             style="stroke:#4075bc;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
